@@ -1,12 +1,4 @@
-## Welcome to CloudAccel github site
-
 ## CloudAccel Hardware Acceleration of Machine Learning Applications in the Cloud
-
-
-
-You can use the [editor on GitHub](https://github.com/cloudaccel/cloudaccel.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### About CloudAccel
 
@@ -19,30 +11,6 @@ During this project, we will develop the configurable hardware accelerators in t
 Finally, the last step will be the development of the required libraries and APIs for the specific kernels.
 
 ​Specifically, we will develop the APIs and the libraries for the widely-used frameworks such as Apache Spark, Torch, Google Tensorflow and Caffe that will make the use of the accelerators easy to instantiate and use by software and cloud programmers. The hardware accelerators will first be tested and validated in the local infrastructure (FPGA boards hosted in desktop PC through the PCIe interface and using the Xilinx SDAccel framework). After the verification and validation of the designs, the IP cores will be uploaded to online market places that support heterogeneous (FPGA) data center infrastructure such as Amazon AWS, IBM suppervessel and Google Cloud platform.​
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Publications
 
@@ -75,11 +43,9 @@ Dimitris Danopoulos, Christoforos Kachris, Dimitrios Soudris
 14th International Symposium on Reconfigurable Communication-centric Systems-on-Chip (ReCoSoC 2019)
 July 1-3 2019, York - United Kingdom
 
+### Source codes
 
-
-
-
-
+[Open-source github](https://github.com/cloudaccel)
 
 ### Contact
 
