@@ -8,7 +8,7 @@ You can use the [editor on GitHub](https://github.com/cloudaccel/cloudaccel.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### About CLoudAccel
+### About CloudAccel
 
 Emerging web applications like cloud computing, machine learning and big data analytics have increased significantly the workload on the data centres during the last years. Most of these applications are computational intensive and typical server processors cannot sustain the exponential increase of the network traffic of computation intensive applications.
 A solution that can be used to overcome this problem is the use of hardware accelerators such as the ones based on FPGA. The use of highly specialized hardware accelerator can greatly advance server processors and can also increase significantly the performance of data centres given a fixed power budget.
