@@ -85,7 +85,7 @@ July 1-3 2019, York - United Kingdom
 
 Christoforos Kachris
 
-National Technical University of Athens (NTUA) 
+National Technical University of Athens (NTUA)
 School of Electrical & Computer Engineering
 Department of Computer Science
 9 Heroon Polytechneiou, Zographou Campus
