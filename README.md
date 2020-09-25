@@ -69,7 +69,14 @@ The work has been done under the project “CloudAccel: Hardware Acceleration of
 
 
 ![award1_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0025.jpg)
-
+![award1_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0028.jpg)
+![award1_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0033.jpg)
+![award1_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0059.jpg)
+![award1_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0063.jpg)
+![award1_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0068.jpg)
+![award1_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0083.jpg)
+![award1_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0133.jpg)
+![award1_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0080.jpg)
 
 
 ### Contact
