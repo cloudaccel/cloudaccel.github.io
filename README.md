@@ -59,24 +59,23 @@ July 1-3 2019, York - United Kingdom
 
 ### Awards
 
-#### NTUA Students granted the first place in the Open Hardware Contest organized by Xilinx in 2 categories
+#### NTUA Students granted the first place in the [Open Hardware Contest](http://www.openhw.eu/2019-finalists.html) organized by Xilinx in 2 categories
 
 Students Dimitris Danopoulos and George Tzanos, supervised by research associate Dr. Christoforos Kachris and Prof. Dimitrios Soudris, developed a novel platform for the hardware acceleration of machine learning applications. The platform was developed from the Microprocessors Lab (National Technical University of Athens).
 
-Specifically, Dimitris Danopoulos received the first price on the hardware acceleration category for his work on the acceleration of FAISS; a widely used application for efficient similarity search and clustering of dense vectors in a Xilinx Alveo FPGA board and cloud FPGA. George Tzanos received the first price on the pynq category (using the Zynq SoC) for the efficient acceleration of the Naïve Bayes algorithm for training and classification.
+Specifically, Dimitris Danopoulos received the **first price on the hardware acceleration category** for his work on the acceleration of FAISS; a widely used application for efficient similarity search and clustering of dense vectors in a Xilinx Alveo FPGA board and cloud FPGA. 
 
-The work has been done under the project “CloudAccel: Hardware Acceleration of Machine Learning Applications in the Cloud” that has received funding from the Hellenic Foundation for Research and Innovation (HFRI) and the Genal Secretariat for Research and Technology (GSRT) under grant agreement no 2212.
-
+George Tzanos received the **first price on the pynq category** (using the Zynq SoC) for the efficient acceleration of the Naïve Bayes algorithm for training and classification.
 
 ![award1_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0025.jpg)
-![award1_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0028.jpg)
-![award1_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0033.jpg)
-![award1_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0059.jpg)
-![award1_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0063.jpg)
-![award1_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0068.jpg)
-![award1_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0083.jpg)
-![award1_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0133.jpg)
-![award1_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0080.jpg)
+![award2_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0028.jpg)
+![award3_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0033.jpg)
+![award4_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0059.jpg)
+![award5_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0063.jpg)
+![award6_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0068.jpg)
+![award7_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0083.jpg)
+![award8_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0133.jpg)
+![award9_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0080.jpg)
 
 
 ### Contact
