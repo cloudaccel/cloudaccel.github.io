@@ -59,6 +59,16 @@ July 1-3 2019, York - United Kingdom
 
 ### Awards
 
+#### NTUA student Dimitris Danopoulos won the 2nd prize on Adaptive Computing Developer Contest! 
+
+[Covid4HPC - A fast and accurate solution for Covid detection](https://www.hackster.io/dimdanopoulos/covid4hpc-a-fast-and-accurate-solution-for-covid-detection-bfca97)
+Detecting Covid-19 from X-Ray images using CNNs on cloud FPGA
+
+The CNN model was trained with hardware-aware optimizations then was quantized to 8-bit and finally compiled to run on Xilinx Alveo U50 FPGA through Vitis AI. To the best of our knowledge, this application has not yet been considered for cloud FPGAs while the accuracy and speed achieved surpasses any previous known implementation of CNNs for X-Ray Covid detection. Specifically, it can classify X-Ray images at a rate of 3600 FPS with 97% accuracy and a speed-up of 17.6x vs CPU and 3x vs GPU.
+
+Chech the video [here](https://www.youtube.com/watch?v=INisAnTdnXA)
+
+
 #### NTUA Students granted the first place in the [Open Hardware Contest](http://www.openhw.eu/2019-finalists.html) organized by Xilinx in 2 categories
 
 Students Dimitris Danopoulos and George Tzanos, supervised by research associate Dr. Christoforos Kachris and Prof. Dimitrios Soudris, developed a novel platform for the hardware acceleration of machine learning applications. The platform was developed from the Microprocessors Lab (National Technical University of Athens).
