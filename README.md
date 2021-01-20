@@ -59,7 +59,7 @@ July 1-3 2019, York - United Kingdom
 
 ### Awards
 
-#### NTUA student Dimitris Danopoulos won the 2nd prize on Adaptive Computing Developer Contest! 
+#### NTUA student Dimitris Danopoulos won the 2nd prize on Adaptive Computing Developer Contest for his work on CloudAccel! 
 
 [Covid4HPC - A fast and accurate solution for Covid detection](https://www.hackster.io/dimdanopoulos/covid4hpc-a-fast-and-accurate-solution-for-covid-detection-bfca97)
 Detecting Covid-19 from X-Ray images using CNNs on cloud FPGA
@@ -69,6 +69,7 @@ The CNN model was trained with hardware-aware optimizations then was quantized t
 Check the video [here](https://www.youtube.com/watch?v=INisAnTdnXA)
 
 [Xilinx Announcment](https://forums.xilinx.com/t5/Xilinx-Xclusive-Blog/And-the-Winners-Are-Xilinx-Announces-Winners-in-its-First/ba-p/1195188)
+[Xilinx Results](https://developer.xilinx.com/en/adaptive-computing-contest-2020.html)
 
 
 #### NTUA Students granted the first place in the [Open Hardware Contest](http://www.openhw.eu/2019-finalists.html) organized by Xilinx in 2 categories
