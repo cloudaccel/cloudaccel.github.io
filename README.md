@@ -68,7 +68,7 @@ The CNN model was trained with hardware-aware optimizations then was quantized t
 
 Check the video [here](https://www.youtube.com/watch?v=INisAnTdnXA)
 
-[Xilinx Announcmenet:\(https://forums.xilinx.com/t5/Xilinx-Xclusive-Blog/And-the-Winners-Are-Xilinx-Announces-Winners-in-its-First/ba-p/1195188)
+[Xilinx Announcment](https://forums.xilinx.com/t5/Xilinx-Xclusive-Blog/And-the-Winners-Are-Xilinx-Announces-Winners-in-its-First/ba-p/1195188)
 
 
 #### NTUA Students granted the first place in the [Open Hardware Contest](http://www.openhw.eu/2019-finalists.html) organized by Xilinx in 2 categories
