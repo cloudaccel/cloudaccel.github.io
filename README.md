@@ -82,6 +82,7 @@ Dimitris Danopoulos, Christoforos Kachris, Dimitrios Soudris
 
 2020 IEEE 28th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM)
 
+![hipeac_Award](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/hipeac-award_orig.png)
 
 
 
