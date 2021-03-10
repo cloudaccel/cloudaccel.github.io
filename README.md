@@ -72,6 +72,19 @@ Check the video [here](https://www.youtube.com/watch?v=INisAnTdnXA)
 [Xilinx Results](https://developer.xilinx.com/en/adaptive-computing-contest-2020.html)
 
 
+#### Dimitris Danopoulos awarded the HiPEAC paper award for the FCCM Paper 2020
+
+Dimitris Danopoulos, CHristoforos Kachris and Dimitrios Soudris, have been awarded the HiPEAC 2020 paper award for his paper on the top-rated FPGA conference FCCM.
+
+[Automatic Generation of FPGA Kernels From Open Format CNN Models](https://www.fccm.org/past/2020/proceedings/2020/pdfs/FCCM2020-65FOvhMqzyMYm99lfeVKyl/580300a237/580300a237.pdf)
+
+Dimitris Danopoulos, Christoforos Kachris, Dimitrios Soudris
+
+2020 IEEE 28th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM)
+
+
+
+
 #### NTUA Students granted the first place in the [Open Hardware Contest](http://www.openhw.eu/2019-finalists.html) organized by Xilinx in 2 categories
 
 Students Dimitris Danopoulos and George Tzanos, supervised by research associate Dr. Christoforos Kachris and Prof. Dimitrios Soudris, developed a novel platform for the hardware acceleration of machine learning applications. The platform was developed from the Microprocessors Lab (National Technical University of Athens).
