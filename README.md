@@ -30,38 +30,42 @@ Sustainable Computing: Informatics and Systems Volume 30, June 2021, 100520
 
 #### International Conferences
 
-1. FPGA Acceleration of Generative Adversarial Networks for Image Reconstruction
+1. [FPGA Acceleration of Generative Adversarial Networks for Image Reconstruction](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/mocast_2021_paper_115.pdf)
 Dimitris Danopoulos, Konstantinos Anagnostopoulos, Christoforos Kachris, Dimitrios Soudris
 10th International Conference on Circuits and Systems Technologies (MOCAST 2021), September 2021 
 
-2. [Utilizing Cloud FPGAs towards the Open Neural Network Standard](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/2020_suscom_paper.pdf)  
-Dimitris Danopoulos, Christoforos Kachris, Dimitrios Soudris  
-11th IEEE International Green and Sustainable Computing Conference (IGSC 2020), October 2020
+2. Covid4HPC: A Fast and Accurate Solution for Covid Detection in the Cloud using X-Rays,
+Dimitrios Danopoulos, Christoforos Kachris and Dimitrios Soudris, ARC 
+International Symposium on Applied Reconfigurable Computing, ARC 2021, July 2021
 
-3. [Hardware Acceleration of Decision Tree Learning Algorithm](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/2020_mocast_decision_tree.pdf)  
+3. [Utilizing Cloud FPGAs towards the Open Neural Network Standard](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/2020_suscom_paper.pdf)  
+Dimitris Danopoulos, Christoforos Kachris, Dimitrios Soudris  
+11th IEEE International Green and Sustainable Computing Conference (IGSC 2020), October 2020, [Presentation](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/igsc2020-suscom-presentation.pdf)
+
+4. [Hardware Acceleration of Decision Tree Learning Algorithm](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/2020_mocast_decision_tree.pdf)  
 Asim Zoulkarni, Christoforos Kachris, Dimitrios Soudris  
 8th International Conference on Modern Circuits and Systems Technologies (MOCAST), September 2020
 (Best Paper Award nomination), [Video](https://ml.zmml.uni-bremen.de/video/5f4b4cd6d42f1c7a6a8b4570)
 
-4. [Automatic Generation of FPGA Kernels From Open Format CNN Models](https://www.fccm.org/past/2020/proceedings/2020/pdfs/FCCM2020-65FOvhMqzyMYm99lfeVKyl/580300a237/580300a237.pdf)  
+5. [Automatic Generation of FPGA Kernels From Open Format CNN Models](https://www.fccm.org/past/2020/proceedings/2020/pdfs/FCCM2020-65FOvhMqzyMYm99lfeVKyl/580300a237/580300a237.pdf)  
 Dimitris Danopoulos, Christoforos Kachris, Dimitrios Soudris  
 2020 IEEE 28th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM)
-pp. 237-237, May 2020
+pp. 237-237, May 2020, [Poster](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/fccm2020_poster.pdf)
 
-5. [Hardware Acceleration on Gaussian Naive Bayes Machine Learning Algorithm](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/mocast_paper_naive_bayes.pdf)  
+6. [Hardware Acceleration on Gaussian Naive Bayes Machine Learning Algorithm](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/mocast_paper_naive_bayes.pdf)  
 Georgios Tzanos, Christoforos Kachris, Dimitrios Soudris  
 8th International Conference on Modern Circuits and Systems Technologies (MOCAST)
 13-15 May 2019, Thessaloniki, Greece
 
-6. [Approximate Similarity Search with FAISS framework using FPGAs on the cloud](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/samos_faiss_paper.pdf)  
+7. [Approximate Similarity Search with FAISS framework using FPGAs on the cloud](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/samos_faiss_paper.pdf)  
 Dimitris Danopoulos, Christoforos Kachris, Dimitrios Soudris  
 International Conference on Embedded Computer Systems, Architecture Modeling and Simulation (SAMOS)
 July 7-11 2019, Samos Greece
 
-7. [FPGA Acceleration of Approximate KNN Indexing on High-Dimensional Vectors](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/faiss_recosoc.pdf)  
+8. [FPGA Acceleration of Approximate KNN Indexing on High-Dimensional Vectors](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/faiss_recosoc.pdf)  
 Dimitris Danopoulos, Christoforos Kachris, Dimitrios Soudris  
 14th International Symposium on Reconfigurable Communication-centric Systems-on-Chip (ReCoSoC 2019)
-July 1-3 2019, York - United Kingdom
+July 1-3 2019, York - United Kingdom, [Presentation](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/recosoc2019_presentation.pdf)
 
 ### Source codes
 
