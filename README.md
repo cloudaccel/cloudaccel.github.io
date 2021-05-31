@@ -31,12 +31,10 @@ Sustainable Computing: Informatics and Systems Volume 30, June 2021, 100520
 #### International Conferences
 
 1. [FPGA Acceleration of Generative Adversarial Networks for Image Reconstruction](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/mocast_2021_paper_115.pdf)
-
 Dimitris Danopoulos, Konstantinos Anagnostopoulos, Christoforos Kachris, Dimitrios Soudris
 10th International Conference on Circuits and Systems Technologies (MOCAST 2021), September 2021 
 
 2. Covid4HPC: A Fast and Accurate Solution for Covid Detection in the Cloud using X-Rays,
-
 Dimitrios Danopoulos, Christoforos Kachris and Dimitrios Soudris, ARC 
 International Symposium on Applied Reconfigurable Computing, ARC 2021, July 2021
 
