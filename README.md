@@ -35,7 +35,7 @@ Dimitris Danopoulos, Konstantinos Anagnostopoulos, Christoforos Kachris, Dimitri
 10th International Conference on Circuits and Systems Technologies (MOCAST 2021), September 2021 
 
 2. Covid4HPC: A Fast and Accurate Solution for Covid Detection in the Cloud using X-Rays,
-Dimitrios Danopoulos, Christoforos Kachris and Dimitrios Soudris, ARC 
+Dimitrios Danopoulos, Christoforos Kachris and Dimitrios Soudris, 
 International Symposium on Applied Reconfigurable Computing, ARC 2021, July 2021
 
 3. [Utilizing Cloud FPGAs towards the Open Neural Network Standard](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/2020_suscom_paper.pdf)  
