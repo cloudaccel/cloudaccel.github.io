@@ -34,9 +34,9 @@ Sustainable Computing: Informatics and Systems Volume 30, June 2021, 100520
 Dimitris Danopoulos, Konstantinos Anagnostopoulos, Christoforos Kachris, Dimitrios Soudris
 10th International Conference on Circuits and Systems Technologies (MOCAST 2021), September 2021 
 
-2. Covid4HPC: A Fast and Accurate Solution for Covid Detection in the Cloud using X-Rays,
+2. [Covid4HPC: A Fast and Accurate Solution for Covid Detection in the Cloud using X-Rays](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/2021_arc_covid4hpc.pdf),
 Dimitrios Danopoulos, Christoforos Kachris and Dimitrios Soudris, 
-International Symposium on Applied Reconfigurable Computing, ARC 2021, July 2021
+International Symposium on Applied Reconfigurable Computing, ARC 2021, July 2021, [Github repo](https://github.com/dimdano/Covid4HPC)
 
 3. [Utilizing Cloud FPGAs towards the Open Neural Network Standard](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/2020_suscom_paper.pdf)  
 Dimitris Danopoulos, Christoforos Kachris, Dimitrios Soudris  
@@ -60,7 +60,7 @@ Georgios Tzanos, Christoforos Kachris, Dimitrios Soudris
 7. [Approximate Similarity Search with FAISS framework using FPGAs on the cloud](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/samos_faiss_paper.pdf)  
 Dimitris Danopoulos, Christoforos Kachris, Dimitrios Soudris  
 International Conference on Embedded Computer Systems, Architecture Modeling and Simulation (SAMOS)
-July 7-11 2019, Samos Greece
+July 7-11 2019, Samos Greece, [Github repo](https://github.com/dimdano/faiss-fpga)
 
 8. [FPGA Acceleration of Approximate KNN Indexing on High-Dimensional Vectors](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/faiss_recosoc.pdf)  
 Dimitris Danopoulos, Christoforos Kachris, Dimitrios Soudris  
@@ -119,6 +119,10 @@ George Tzanos received the **first price on the pynq category** (using the Zynq 
 ![award8_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0133.jpg)
 ![award9_xup2018](https://cloudaccel.weebly.com/uploads/1/3/6/6/13662069/d23563-0080.jpg)
 
+
+### Articles
+
+[Speedup KNN algorithms using FPGAs](https://www.electronicsweekly.com/news/university-research-speed-searches-2019-10/)
 
 ### Contact
 
