@@ -87,6 +87,9 @@ Check the video [here](https://www.youtube.com/watch?v=INisAnTdnXA)
 [Xilinx Results](https://developer.xilinx.com/en/adaptive-computing-contest-2020.html)
 
 
+[HiPEAC Newsletter (p. 8)](https://www.hipeac.net/magazine/7157/)
+
+
 #### Dimitris Danopoulos awarded the HiPEAC paper award for the FCCM Paper 2020
 
 Dimitris Danopoulos, CHristoforos Kachris and Dimitrios Soudris, have been awarded the HiPEAC 2020 paper award for his paper on the top-rated FPGA conference FCCM.
