@@ -73,6 +73,29 @@ July 1-3 2019, York - United Kingdom, [Presentation](https://cloudaccel.weebly.c
 
 ### Awards
 
+#### NTUA Student granted the first place in the [Open Hardware Contest](http://www.openhw.eu/2021) organized by Xilinx in 2021 for the work on GANs.
+
+ECE-NTUA Ph.D. student [Dimitris Danopoulos](https://www.linkedin.com/in/dimitrios-danopoulos-0b9321140/), supervised by research associate Dr. Christoforos Kachris and Professor Dimitrios Soudris, developed a novel platform for the hardware acceleration of Image Reconstruction algorithms with GANs (Generative Adversarial Networks) and won first place in 2021 Xilinx Open Hardware Competition. The accelerator was developed in the Microprocessors and Digital Systems Lab of the School of Electrical and Computer Engineering of the National Technical University of Athens.
+
+Specifically, Dimitris Danopoulos participated in the Compute Acceleration category of the competition and has received an award for his work on the acceleration of image reconstruction algorithms with GAN. The Generator neural network model trained on Tensorflow takes as input the top half of a clothing image and generates/predicts the bottom half. The accelerator was implemented in High Level Synthesis and has been ported on a Xilinx Alveo FPGA. The architecture also achieves significant performance and power efficiency compared to other platforms like GPUs.
+
+The work has been done under the project “[CloudAccel: Hardware Acceleration of Machine Learning Applications in the Cloud](https://cloudaccel.github.io/)” that has received funding from the Hellenic Foundation for Research and Innovation (HFRI) and the Genal Secretariat for Research and Technology (GSRT) under grant agreement no 2212 and the Xilinx University Program.
+
+The project is available on GitHub:
+
+https://cloudaccel.github.io/
+
+https://github.com/cloudaccel/gan-hls
+
+A video showing the main novelties of this platform is shown here:
+
+https://youtu.be/FO_M2AHb1u4
+
+
+
+
+
+
 #### NTUA student Dimitris Danopoulos won the 2nd prize on Adaptive Computing Developer Contest for his work on CloudAccel! 
 
 [Covid4HPC - A fast and accurate solution for Covid detection](https://www.hackster.io/dimdanopoulos/covid4hpc-a-fast-and-accurate-solution-for-covid-detection-bfca97)
