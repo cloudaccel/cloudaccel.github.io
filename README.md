@@ -83,15 +83,13 @@ The work has been done under the project “[CloudAccel: Hardware Acceleration o
 
 The project is available on GitHub:
 
-https://cloudaccel.github.io/
+[CloudAccel Github](https://cloudaccel.github.io/)
 
-https://github.com/cloudaccel/gan-hls
+[GAN-HLS Github](https://github.com/cloudaccel/gan-hls)
 
 A video showing the main novelties of this platform is shown here:
 
-https://youtu.be/FO_M2AHb1u4
-
-
+[GAN Video](https://youtu.be/FO_M2AHb1u4)
 
 
 
@@ -127,7 +125,7 @@ Dimitris Danopoulos, Christoforos Kachris, Dimitrios Soudris
 
 
 
-#### NTUA Students granted the first place in the [Open Hardware Contest](http://www.openhw.eu/2019-finalists.html) organized by Xilinx in 2 categories
+#### NTUA Students granted the first place in the [Open Hardware Contest 2019](http://www.openhw.eu/2019-finalists.html) organized by Xilinx in 2 categories
 
 Students Dimitris Danopoulos and George Tzanos, supervised by research associate Dr. Christoforos Kachris and Prof. Dimitrios Soudris, developed a novel platform for the hardware acceleration of machine learning applications. The platform was developed from the Microprocessors Lab (National Technical University of Athens).
 
