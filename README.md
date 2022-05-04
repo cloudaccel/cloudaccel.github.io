@@ -71,6 +71,27 @@ July 1-3 2019, York - United Kingdom, [Presentation](https://cloudaccel.weebly.c
 
 [Open-source github](https://github.com/cloudaccel)
 
+
+## Library of Accelerators
+
+
+
+> [Naive Bayes](https://github.com/cloudaccel/Gaussian-Naive-Bayes)
+
+> [KNN - FAISS](https://github.com/cloudaccel/faiss-fpga)
+
+> [Decision trees](https://github.com/cloudaccel/faiss-fpga)
+
+> [SVM](https://github.com/cloudaccel/faiss-fpga)
+
+> [Transofmer Networks](https://github.com/cloudaccel/faiss-fpga)
+
+> [GAN](https://github.com/cloudaccel/gan-hls)
+
+> [COVID4HPC](https://github.com/cloudaccel/Covid4HPC)
+
+
+
 ### Awards
 
 #### NTUA Student granted the first place in the [Open Hardware Contest](http://www.openhw.eu/2021) organized by Xilinx in 2021 for the work on GANs.
